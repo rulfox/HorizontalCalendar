@@ -112,7 +112,7 @@ class CalendarAdapter(var days: ArrayList<Day>, var width: Int, style: StyleCale
     }
 
     enum class LETTERDAY {
-        D, L, M, X, J, V, S
+        Sun, Mon, Tue, Wed, Thu, Fri, Sat
     }
 }
 
